@@ -13,7 +13,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=KenanKndl&theme=modern-lilac2&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KenanKndl&show_icons=true&theme=radical)
 
-<h3>🔮 Who am I?</h3>
+<h3>🔮 Introduction</h3>
 Hi everyone. I'm studying computer engineering at university. I have more than 4 years of programming experience. Recently, I have been developing artificial intelligence software for a Turkish Tekofest UAV team. At the same time, I personally work on game projects.
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
